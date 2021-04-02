@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rpfpZmrgre/SPHmbsiDRH/ANdYtuqM+wE5HRC7sBfpr0C6f239RBAD93/9892ZqGvZZj10klgL8jpq0gVJOfLw==",
+  "success": true,
+  "projectFilePath": "E:\\Download\\Telegram\\Max-Flow-Problem-master\\Max-Flow-Problem-master\\Algorithms\\Algorithms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Денис\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Денис\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Денис\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
